@@ -21,7 +21,7 @@ Below are the sample CFTs which can be use to deploy different flavours of vThun
 Regions need to be selected after clicking on the link .
 
 
-## Deploy New Stack with 1 Gbps vTHunder 
+## Deploy New Stack with 1 Gbps vThunder 
 
 Deploy new stack with with 1 Gbps license vThunder
 
@@ -29,7 +29,7 @@ Deploy new stack with with 1 Gbps license vThunder
    <img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
 
 
-## Deploy New Stack with 500 Mbps vTHunder
+## Deploy New Stack with 500 Mbps vThunder
 
 Deploy new stack with 500 Mbps license vThunder
 
@@ -37,7 +37,7 @@ Deploy new stack with 500 Mbps license vThunder
    <img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
    
 
-## Deploy New Stack with BYOL vTHunder
+## Deploy New Stack with BYOL vThunder
 
 Deploy new stack with BYOL vThunder
 
