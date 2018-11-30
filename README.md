@@ -1,11 +1,11 @@
-# AWS CFTs for A10 vThunder
+# AWS CFTs(CloudFormation Template) for A10 vThunder
 
 ## Introduction
 
 This is the repository of CFTs for deploying A10 ADC in the AWS environment .
 With the one click you will be able to deploy new stack with vThunder .
 
-## What is CFT (Cloud Formation Template)
+## What is CFT (CloudFormation Template)
 
 AWS CloudFormation simplifies provisioning and management on AWS. You can create templates for the service or application architectures you want and have AWS CloudFormation use those templates for quick and reliable provisioning of the services or applications (called “stacks”). You can also easily update or replicate the stacks as needed.This collection of sample templates will help you get started with AWS CloudFormation and quickly build your own templates.
 
@@ -23,19 +23,33 @@ Regions need to be selected after clicking on the link .
 
 ## Deploy New Stack with 1 Gbps vTHunder 
 
+Deploy new stack with with 1 Gbps license vThunder
+
 <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?templateURL= https://s3.amazonaws.com/pareshn/CFTs/vthunder-hvm-4.1.1-p6-1Gbps.template">  
    <img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
 
 
 ## Deploy New Stack with 500 Mbps vTHunder
 
+Deploy new stack with 500 Mbps license vThunder
+
 <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?templateURL=https://s3-us-west-2.amazonaws.com/automation-bucket/AWSCFTs/vthunder-hvm-4.1.1-p6-500MBP.template">  
    <img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
+   
 
 ## Deploy New Stack with BYOL vTHunder
 
-<a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?templateURL= https://s3-us-west-2.amazonaws.com/automation-bucket/AWSCFTs/vthunder-hvm-4.1.1-p6-BYOL.template">  
+Deploy new stack with BYOL vThunder
+
+<a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?templateURL=https://s3-us-west-2.amazonaws.com/automation-bucket/AWSCFTs/vthunder-hvm-4.1.1-p6-BYOL.template">  
    <img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
+
+
+
+
+
+
+<br><br>For more information on cost and licensing please <a href="https://aws.amazon.com/marketplace/seller-profile?id=0cda37b3-aa1a-4c9d-8daf-c396572cc98b">click here</a>. 
 
 
 
