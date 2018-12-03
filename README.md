@@ -25,7 +25,7 @@ Regions need to be selected after clicking on the link .
 
 Deploy new stack with with 1 Gbps license vThunder
 
-<a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?templateURL= https://s3.amazonaws.com/pareshn/CFTs/vthunder-hvm-4.1.1-p6-1Gbps.template">  
+<a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?templateURL= https://s3-us-west-2.amazonaws.com/automation-bucket/AWSCFTs/vthunder-hvm-4.1.1-p6-1Gbps.template">  
    <img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
 
 
