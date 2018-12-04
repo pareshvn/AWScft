@@ -49,7 +49,11 @@ Deploy new stack with BYOL vThunder
 
 
 
-<br><br>For more information on cost and licensing please <a href="https://aws.amazon.com/marketplace/seller-profile?id=0cda37b3-aa1a-4c9d-8daf-c396572cc98b">click here</a>. 
+
+
+<br><br>For sample CFT please <a href="https://github.com/pareshvn/AWScft/blob/master/vthunder-hvm-4.1.1-p6-1Gbps.txt">click here</a> 
+
+More information on cost and licensing please <a href="https://aws.amazon.com/marketplace/seller-profile?id=0cda37b3-aa1a-4c9d-8daf-c396572cc98b">click here</a>. 
 
 
 
